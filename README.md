@@ -35,7 +35,7 @@ telegram_token.py：TelegramのToken
 	ramen_review.csv：
 		口コミのスクレイピングデータ.
 		実行に関係しません  
-	ramen_store.csc：
+	ramen_store.cs：
 		ラーメン店のスクレイピングデータ.
 		実行に関係します  
 /model  
