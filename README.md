@@ -59,8 +59,17 @@ telegram_token.py：TelegramのToken
 ・位置情報を使ったレコメンドもしたい   
 
 ## 実行の様子
+### 例1  
 <img src="https://user-images.githubusercontent.com/84836565/150677408-0dda53f6-aafb-4332-bdc0-a1785ad0b3c0.jpg" width="600px">
 <img src="https://user-images.githubusercontent.com/84836565/150677398-9ffeea03-ae8f-4864-b24b-114c56a24657.jpg" width="600px">
-<img src="https://user-images.githubusercontent.com/84836565/150677405-3ecb9ea5-fcd9-4ab6-a2e2-25a453aee140.jpg" width="600px">
+<img src="https://user-images.githubusercontent.com/84836565/150677405-3ecb9ea5-fcd9-4ab6-a2e2-25a453aee140.jpg" width="600px">  
+<img src="https://user-images.githubusercontent.com/84836565/150678173-8638bbe7-c5b1-482e-a1ed-1674e9c0fb12.jpg" width="600px">  
+
+### 例2
+<img src="https://user-images.githubusercontent.com/84836565/150677959-2f86b9d2-c15e-450f-9306-5dce5936e371.jpg" width="600px">
+<img src="https://user-images.githubusercontent.com/84836565/150677974-811e5b83-42c4-4dc7-9c65-ed7cc72f5895.jpg" width="600px">
+<img src="https://user-images.githubusercontent.com/84836565/150677987-4437d6e2-a4e4-4ecb-8390-b01df2ab7a2a.jpg" width="600px">
+<img src="https://user-images.githubusercontent.com/84836565/150678007-85830459-e5c3-410f-bd80-3c8274a35461.jpg" width="600px">
+<img src="https://user-images.githubusercontent.com/84836565/150678024-0c056d1b-0c87-4b4c-b096-18536a7ee779.jpg" width="600px">
 
 
